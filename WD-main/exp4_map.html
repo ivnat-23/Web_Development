@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Mapping Example</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f2f2f2;
+    }
+
+    h2 {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Computer Parts Image Mapping</h2>
+  <p>Click on Monitor, Keyboard, or Mouse</p>
+
+  <img src="workplace.jpeg" width="251" height="201" usemap="#computerMap" alt="Computer System">
+
+  <map name="computerMap">
+
+    <!-- Monitor -->
+    <area shape="rect"
+          coords="40,10,200,100"
+          href="https://coek.dypgroup.edu.in/departments/computer-science-engineering"
+          href="#"
+          alt="Monitor"
+          title="Monitor">
+
+    <!-- Keyboard -->
+    <area shape="rect"
+          coords="30,130,200,180"
+          href="https://www.w3schools.com/dsa/dsa_algo_quicksort.php"
+          alt="Keyboard"
+          title="Keyboard">
+
+    <area shape="rect"
+          coords="205,140,245,185"
+          href="https://www.w3schools.com/html/html_images_picture.asp"
+          alt="Mouse"
+          title="Mouse">
+
+  </map>
+
+</body>
+</html>

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Course and CSE Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 50px;
+        }
+
+        .frame {
+            width: 40%;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        .frame1 {
+            background-color: lightblue;
+        }
+
+        .frame2 {
+            background-color: lightgreen;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+<h2 style="text-align:center;">Course and Student Information</h2>
+
+<div class="container">
+    
+    <!-- First Frame -->
+    <div class="frame frame1">
+        <h3>Course Table</h3>
+        <table>
+            <tr>
+                <th>Course Name</th>
+                <th>Student</th>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Python</td>
+                <td>40</td>
+            </tr>
+        </table>
+    </div>
+
+    <!-- Second Frame -->
+    <div class="frame frame2">
+        <h3>CSE Class Details</h3>
+        <table>
+            <tr>
+                <th>Year</th>
+                <th>Student Count</th>
+            </tr>
+            <tr><!DOCTYPE html>
+<html>
+<head>
+    <title>Course and CSE Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 50px;
+        }
+
+        .frame {
+            width: 40%;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        .frame1 {
+            background-color: lightblue;
+        }
+
+        .frame2 {
+            background-color: lightgreen;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: white;
+        }
+
+        ul, ol {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h2 style="text-align:center;">Course and Student Information</h2>
+
+<div class="container">
+    
+    <!-- First Frame -->
+    <div class="frame frame1">
+        <h3>Course Table</h3>
+        <table>
+            <tr>
+                <th>Course Name</th>
+                <th>Student</th>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Python</td>
+                <td>40</td>
+            </tr>
+        </table>
+
+        <h4>Available Courses</h4>
+        <ul>
+            <li>Java</li>
+            <li>Python</li>
+            <li>Data Structures</li>
+            <li>Web Development</li>
+        </ul>
+    </div>
+
+    <!-- Second Frame -->
+    <div class="frame frame2">
+        <h3>CSE Class Details</h3>
+        <table>
+            <tr>
+                <th>Year</th>
+                <th>Student Count</th>
+            </tr>
+            <tr>
+                <td>First Year</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <td>Second Year</td>
+                <td>55</td>
+            </tr>
+        </table>
+
+        <h4>CSE Years</h4>
+        <ol>
+            <li>First Year</li>
+            <li>Second Year</li>
+            <li>Third Year</li>
+            <li>Final Year</li>
+        </ol>
+    </div>
+
+</div>
+
+</body>
+</html>
+                <td>First Year</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <td>Second Year</td>
+                <td>55</td>
+            </tr>
+        </table>
+    </div>
+
+</div>
+
+</body>
+</html>
